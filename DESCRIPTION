@@ -1,0 +1,10 @@
+Package: SubPath
+Version: 0.1
+Date: 2023-03-30
+Author: Ying Hu <yhu@mail.nih.gov> Chunhua Yan <yanch@mail.nih.gov>
+Maintainer: Ying Hu <yhu@mail.nih.gov>
+License: GPL-2
+Title: SubPath
+Description: Sub networks, GSEA using the sub network, and visualization
+Depends: R (>= 2.10), igragh
+Packaged: 2023-03-30 11:59:12 UTC; Ying Hu
