@@ -6,5 +6,5 @@ Maintainer: Ying Hu <yhu@mail.nih.gov>
 License: GPL-2
 Title: SubPath
 Description: Sub networks, GSEA using the sub network, and visualization
-Depends: R (>= 2.10), igraph
+Depends: R (>= 2.10), igraph, wordcloud
 Packaged: 2023-03-30 11:59:12 UTC; Ying Hu
