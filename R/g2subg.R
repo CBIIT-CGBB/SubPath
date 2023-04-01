@@ -1,6 +1,4 @@
 
-source("divide_large_graph.R")
-
 g2subg <- function(g, max_nodes=20, compon=FALSE){
   if (compon){
     c.out <- components(g);
